@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">multimedia</string>
+    <string name="pusar">pausar</string>
+    <string name="detener">detener</string>
+</resources>
